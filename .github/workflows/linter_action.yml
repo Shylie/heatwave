@@ -1,4 +1,4 @@
-name: Gradle Error Checker
+name: Gradle Linter
 
 on: [push, pull_request]
 jobs:
