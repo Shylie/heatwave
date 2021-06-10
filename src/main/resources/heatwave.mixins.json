@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "shy.heatwave.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "WorldChunkMixin"
+  ],
+  "client": [],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

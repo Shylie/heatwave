@@ -1,0 +1,6 @@
+{
+  "parent": "heatwave:block/template_brazier",
+  "textures": {
+    "top": "heatwave:block/brazier_soul_top"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "type": "heatwave:brazier",
+  "offsets": [
+    {
+      "offset": [0, 0, 0],
+      "required": {
+        "item": "heatwave:brazier"
+      }
+    },
+    {
+      "offset": [-2, 0, -1],
+      "required": {
+        "item": "heatwave:brazier"
+      }
+    },
+    {
+      "offset": [-1, 0, -2],
+      "required": {
+        "item": "heatwave:brazier"
+      }
+    },
+    {
+      "offset": [1, 0, -2],
+      "required": {
+        "item": "heatwave:brazier"
+      }
+    },
+    {
+      "offset": [2, 0, -1],
+      "required": {
+        "item": "heatwave:brazier"
+      }
+    },
+    {
+      "offset": [2, 0, 1],
+      "required": {
+        "item": "heatwave:brazier"
+      }
+    },
+    {
+      "offset": [1, 0, 2],
+      "required": {
+        "item": "heatwave:brazier"
+      }
+    },
+    {
+      "offset": [-1, 0, 2],
+      "required": {
+        "item": "heatwave:brazier"
+      }
+    },
+    {
+      "offset": [-2, 0, 1],
+      "required": {
+        "item": "heatwave:brazier"
+      }
+    }
+  ],
+  "input": {
+    "item": "minecraft:dirt"
+  },
+  "output": "minecraft:iron_ingot"
+}
