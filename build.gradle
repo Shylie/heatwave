@@ -11,7 +11,9 @@ sourceCompatibility = JavaVersion.VERSION_16
 targetCompatibility = JavaVersion.VERSION_16
 
 archivesBaseName = project.archives_base_name
-version = project.mod_version
+version = System.getenv("HW_VERSION")
+        ? System.getenv("HW_VERSION")
+        : project.mod_version
 group = project.maven_group
 
 minecraft {
